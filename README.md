@@ -19,3 +19,6 @@ As part of the project, I've also visualized the data to better understand featu
 - XGBoost: AUC 0.974 on validation set
 - LightGBM: AUC 0.93 using cross-validation
 
+## Link to Dataset
+- https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
